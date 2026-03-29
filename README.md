@@ -19,7 +19,7 @@ This portfolio serves as an easy-to-follow guide that covers five different task
 ## Key Links
 Here are the platforms and resources I used or referenced during this project: 
 
-* **Design:** [Canva](https://canva.com) 
-* **Portfolios & Coding:** [GitHub](https://github.com) | [LinkedIn](https://linkedin.com) | [Kaggle](https://kaggle.com) | [HackerRank](https://hackerrank.com) 
-* **Collaboration:** [Google Forms](https://forms.google.com)
-* **Cyber Safety Resources:** [Cyber Crime Portal](https://cybercrime.gov.in) | **National Helpline:** 1930 (24x7 phone) 
+* **Design:** (https://canva.com) 
+* **Portfolios & Coding:** (https://github.com) | (https://linkedin.com) | (https://kaggle.com) | (https://hackerrank.com) 
+* **Collaboration:** (https://forms.gle/xVrCHwQiC9VuYiUs9)
+* **Cyber Safety Resources:** (https://cybercrime.gov.in) | **National Helpline:** 1930 (24x7 phone) 
